@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cc9c1ad-f298-4946-bc43-83d162644580" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" phpInterpreterId="2206c2a1-c978-443d-99e8-3c14b99a7de5">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <pharPath>C:\xampp\phpMyAdmin\composer.json</pharPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="EventController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WerkPakket1/src/controller/EventController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WerkPakket1/api.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventJsonView.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WerkPakket1/src/view/EventJsonView.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Site.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WerkPakket1/Site.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>once()</find>
+      <find>$this-&gt;person</find>
+      <find>person</find>
+      <find>dump</find>
+      <find>var</find>
+      <find>$eventJavaScriptView</find>
+      <find>codeignier</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$person</replace>
+      <replace>atLeastOnce()</replace>
+    </replaceStrings>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="phpunit --bootstrap src/autoload.php test/Util/DateTest.php" />
+      <command text="phpunit --bootstrap --coverage-text src/autoload.php test/Util/DateTest.php" />
+      <command text="phpunit  --coverage-text --bootstrap src/autoload.php test/Util/DateTest.php" />
+      <command text="phpunit  " />
+      <command text="phpunit  --coverage-text=ok --bootstrap src/autoload.php test/Util/DateTest.php" />
+      <command text="ls" />
+      <command text="phpunit  --coverage-text=ok --bootstrap src/autoload.php test/Util/DateTest.php" />
+      <command text="phpunit  ---bootstrap src/autoload.php test/Util/DateTest.php" />
+      <command text="phpunit  --bootstrap src/autoload.php test/Util/DateTest.php" />
+      <command text="phpunit  --coverage-text=ok --bootstrap src/autoload.php test/Util/DateTest.php" />
+      <command text="phpunit" />
+      <command text="phpunit  --coverage-html=&quot;coverage.html&quot;" />
+      <command text="phpunit  --coverage-html=&quot;coverage.html&quot; src/Util/" />
+      <command text="phpunit  src/Util/" />
+      <command text="phpunit  --bootstrap src/autoload.php test/Util/DateTest.php" />
+      <command text="phpunit  src/Util/" />
+      <command text="phpunit  " />
+      <command text="phpunit  src/Util/Date.php" />
+      <command text="phpunit  test/Util/DateTest.php" />
+      <command text="phpunit  --coverage-html=&quot;coverage.html&quot;  test/Util/DateTest.php" />
+      <command text="phpunit  test/Util/UserTest.php" />
+      <command text="phpunit --bootstrap &quot;src/autoload.php&quot; test/model/" />
+      <command text="phpunit  --coverage-html=&quot;coverage.html&quot;  test/model/" />
+      <command text="phpunit  --coverage-html=coverage  test/model/" />
+      <command text="phpunit  --coverage-html=coverage  test/" />
+    </commandsHistory>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Code/Test.php" />
+        <option value="$PROJECT_DIR$/Drawing/Line.php" />
+        <option value="$PROJECT_DIR$/src/Drawing/Line.php" />
+        <option value="$PROJECT_DIR$/ok.php" />
+        <option value="$PROJECT_DIR$/src/Model/Repository.php" />
+        <option value="$PROJECT_DIR$/src/Model/Entities/User.php" />
+        <option value="$PROJECT_DIR$/Drawing/DrawingException.php" />
+        <option value="$PROJECT_DIR$/src/Util/Math.php" />
+        <option value="$PROJECT_DIR$/Drawing/Point.php" />
+        <option value="$PROJECT_DIR$/src/Drawing/DrawingException.php" />
+        <option value="$PROJECT_DIR$/src/Drawing/DrawingException.php" />
+        <option value="$PROJECT_DIR$/src/Util/File.php" />
+        <option value="$PROJECT_DIR$/src/Util/Math.php" />
+        <option value="$PROJECT_DIR$/src/Drawing/Point.php" />
+        <option value="$PROJECT_DIR$/test/Drawing/PointTest.php" />
+        <option value="$PROJECT_DIR$/src/Util/Date.php" />
+        <option value="$PROJECT_DIR$/src/autoload.php" />
+        <option value="$PROJECT_DIR$/test/Util/DateTest.php" />
+        <option value="$PROJECT_DIR$/phpunit.xml" />
+        <option value="$PROJECT_DIR$/src/Util/Person.php" />
+        <option value="$PROJECT_DIR$/src/Util/User.php" />
+        <option value="$PROJECT_DIR$/test/Util/UserTest.php" />
+        <option value="$PROJECT_DIR$/src/model/PDOPersonRepository.php" />
+        <option value="$PROJECT_DIR$/test/model/PDORepositoryTest.php" />
+        <option value="$PROJECT_DIR$/test/model/PDOPersonRepositoryTest.php" />
+        <option value="$PROJECT_DIR$/src/controller/PersonController.php" />
+        <option value="$PROJECT_DIR$/test/controller/PersonControllerTest.php" />
+        <option value="$PROJECT_DIR$/test/view/PersonJsonViewTest.php" />
+        <option value="$PROJECT_DIR$/src/model/EventRepository.php" />
+        <option value="$PROJECT_DIR$/src/view/View.php" />
+        <option value="$USER_HOME$/Dropbox/School/Semester 2/web advanced/Les 3/excercise2/excercise2/src/model/PDOPersonRepository.php" />
+        <option value="$PROJECT_DIR$/src/model/Event.php" />
+        <option value="$PROJECT_DIR$/src/view/EventJsonView.php" />
+        <option value="$PROJECT_DIR$/src/controller/EventController.php" />
+        <option value="$PROJECT_DIR$/src/model/PDOEventRepository.php" />
+        <option value="$PROJECT_DIR$/app.php" />
+        <option value="$PROJECT_DIR$/app.php" />
+        <option value="$PROJECT_DIR$/test/controller/EventControllerTEst.php" />
+        <option value="$PROJECT_DIR$/test/controller/EventControllerTest.php" />
+        <option value="$PROJECT_DIR$/test/model/PDOEventRepositoryTest.php" />
+        <option value="$PROJECT_DIR$/test/controller/composer.json" />
+        <option value="$PROJECT_DIR$/tsconfig.json" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/api.php" />
+        <option value="$PROJECT_DIR$/WerkPakket1/src/view/View.php" />
+        <option value="$PROJECT_DIR$/WerkPakket1/src/view/EventJsonView.php" />
+        <option value="$PROJECT_DIR$/WerkPakket1/Site.html" />
+        <option value="$PROJECT_DIR$/WerkPakket1/src/view/EventJavaScriptView.php" />
+        <option value="$PROJECT_DIR$/WerkPakket1/src/controller/EventController.php" />
+        <option value="$PROJECT_DIR$/WerkPakket1/api.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="WerkPakket1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.5.0/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Server MokeyWeb\html\WerkPakket1" />
+      <recent name="C:\Server MokeyWeb\html\WerkPakket1\src\view\css" />
+      <recent name="C:\Server MokeyWeb\html\WerkPakket1\pictures" />
+      <recent name="C:\Server MokeyWeb\html\WerkPakket1\src\view" />
+      <recent name="C:\Server MokeyWeb\html\WerkPakket1\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Server MokeyWeb\html\WerkPakket1" />
+      <recent name="C:\Server MokeyWeb\html\WerkPakket1\css" />
+      <recent name="$PROJECT_DIR$/test/view" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Site.html">
+    <configuration name="Site.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://192.168.33.22/html/werkpakket1/WerkPakket1/Site.html" />
+    <configuration name="app.php (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html/WerkPakket1/app.php" />
+    <configuration name="app.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://192.168.33.22/WerkPakket1/app.php" />
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/example/coverage/index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/example/&quot;coverage.html&quot;/index.html" />
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.app.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.app.php (1)" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Site.html" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Site.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.app.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.app.php (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cc9c1ad-f298-4946-bc43-83d162644580" name="Default" comment="" />
+      <created>1486196402817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1486196402817</updated>
+      <workItem from="1486196404172" duration="7289000" />
+      <workItem from="1486208000623" duration="1533000" />
+      <workItem from="1486457799685" duration="8540000" />
+      <workItem from="1486653008282" duration="2076000" />
+      <workItem from="1487013099823" duration="1896000" />
+      <workItem from="1487060728747" duration="8435000" />
+      <workItem from="1487073583854" duration="4285000" />
+      <workItem from="1487236001014" duration="5956000" />
+      <workItem from="1487243053892" duration="221000" />
+      <workItem from="1487249568887" duration="6630000" />
+      <workItem from="1487317510561" duration="9723000" />
+      <workItem from="1493991401822" duration="523000" />
+      <workItem from="1493992163479" duration="38000" />
+      <workItem from="1493992449169" duration="2345000" />
+      <workItem from="1494179160822" duration="3190000" />
+      <workItem from="1494231249745" duration="7595000" />
+      <workItem from="1494321380076" duration="2329000" />
+      <workItem from="1494323904972" duration="550000" />
+      <workItem from="1494510722869" duration="4354000" />
+      <workItem from="1494942557026" duration="558000" />
+      <workItem from="1495435006427" duration="1049000" />
+      <workItem from="1495436098906" duration="4508000" />
+      <workItem from="1527356748417" duration="14000" />
+      <workItem from="1527356880088" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DateTest - 2017.02.16 at 10h 06m 49s.xml">
+      <configuration name="DateTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DateTest - 2017.02.16 at 10h 07m 04s.xml">
+      <configuration name="DateTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DateTest - 2017.02.16 at 10h 09m 29s.xml">
+      <configuration name="DateTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DateTest - 2017.02.16 at 10h 12m 42s.xml">
+      <configuration name="DateTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DateTest - 2017.02.16 at 10h 35m 50s.xml">
+      <configuration name="DateTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DateTest - 2017.02.16 at 10h 44m 59s.xml">
+      <configuration name="DateTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DateTest - 2017.02.16 at 10h 46m 23s.xml">
+      <configuration name="DateTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DateTest - 2017.02.16 at 10h 47m 07s.xml">
+      <configuration name="DateTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DateTest - 2017.02.16 at 11h 06m 20s.xml">
+      <configuration name="DateTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DateTest - 2017.02.16 at 14h 09m 47s.xml">
+      <configuration name="DateTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84421000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.114583336" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.49786323" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.45423728" sideWeight="0.54273504" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.47596154" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.491453" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979124" sideWeight="0.495829" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4513369" sideWeight="0.45726496" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Drawing/Point.php" />
+    <entry file="file://$PROJECT_DIR$/test/Drawing/PointTest.php" />
+    <entry file="file://$PROJECT_DIR$/src/Util/Date.php" />
+    <entry file="file://$PROJECT_DIR$/&quot;coverage.html&quot;/Date.php.html" />
+    <entry file="file://$PROJECT_DIR$/src/Util/User.php" />
+    <entry file="file://$PROJECT_DIR$/test/Util/UserTest.php" />
+    <entry file="file://$PROJECT_DIR$/src/src/view/View.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/src/model/Person.php" />
+    <entry file="file://$PROJECT_DIR$/&quot;coverage.html&quot;/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/model/PersonRepository.php" />
+    <entry file="file://$PROJECT_DIR$/src/model/PDOPersonRepository.php" />
+    <entry file="file://$PROJECT_DIR$/src/controller/PersonController.php" />
+    <entry file="file://$PROJECT_DIR$/coverage/index.html" />
+    <entry file="file://$PROJECT_DIR$/test/model/PDOPersonRepositoryTest.php" />
+    <entry file="file://$PROJECT_DIR$/test/view/PersonJsonViewTest.php" />
+    <entry file="file://$PROJECT_DIR$/src/view/PersonJsonView.php" />
+    <entry file="file://$PROJECT_DIR$/test/controller/PersonControllerTest.php" />
+    <entry file="file://$USER_HOME$/Dropbox/School/Semester 2/web advanced/Les 3/excercise2/excercise2/src/controller/PersonController.php" />
+    <entry file="file://$USER_HOME$/Dropbox/School/Semester 2/web advanced/Les 3/excercise2/excercise2/src/view/PersonJsonView.php" />
+    <entry file="file://$USER_HOME$/Dropbox/School/Semester 2/web advanced/Les 3/excercise2/excercise2/src/model/PDOPersonRepository.php" />
+    <entry file="file://$PROJECT_DIR$/src/autoload.php" />
+    <entry file="file://$PROJECT_DIR$/src/model/EventRepository.php" />
+    <entry file="file://$PROJECT_DIR$/src/view/EventJsonView.php" />
+    <entry file="file://$PROJECT_DIR$/src/view/View.php" />
+    <entry file="file://$PROJECT_DIR$/src/controller/EventController.php" />
+    <entry file="file://$PROJECT_DIR$/src/model/PDOEventRepository.php" />
+    <entry file="file://$PROJECT_DIR$/app.php" />
+    <entry file="file://$PROJECT_DIR$/src/model/Event.php" />
+    <entry file="file://$PROJECT_DIR$/test/model/PDOEventRepositoryTest.php" />
+    <entry file="file://$PROJECT_DIR$/test/controller/composer.json" />
+    <entry file="file://$PROJECT_DIR$/composer.json" />
+    <entry file="file://$PROJECT_DIR$/phpunit.xml" />
+    <entry file="file://$PROJECT_DIR$/test/controller/EventControllerTest.php" />
+    <entry file="file://$PROJECT_DIR$/WerkPakket1/app.php" />
+    <entry file="file://$PROJECT_DIR$/api.php" />
+    <entry file="file://$PROJECT_DIR$/WerkPakket1/src/autoload.php" />
+    <entry file="file://D:/No Hyper-V Windows/Downloads/html_altorouter (1)/html/api.php" />
+    <entry file="file://D:/No Hyper-V Windows/Downloads/html_altorouter (1)/html/vendor/altorouter/altorouter/AltoRouter.php" />
+    <entry file="file://$PROJECT_DIR$/WerkPakket1/src/view/ViewJavaScript.php" />
+    <entry file="file://$PROJECT_DIR$/WerkPakket1/src/view/css/SiteCSS.css" />
+    <entry file="file://$PROJECT_DIR$/WerkPakket1/src/model/Event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WerkPakket1/src/model/EventRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WerkPakket1/src/model/PDOEventRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WerkPakket1/src/view/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WerkPakket1/src/view/EventJsonView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WerkPakket1/src/view/EventJavaScriptView.php" />
+    <entry file="file://$PROJECT_DIR$/WerkPakket1/src/controller/EventController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WerkPakket1/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WerkPakket1/Site.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

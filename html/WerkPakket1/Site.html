@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<script>
+    function getFunctionById() {
+        const url = 'http://192.168.33.22/WerkPakket1/events/' + document.getElementById('textbox_Id').value; // Get 1 event
+        fetch(url, {
+            method: 'get',
+            // may be some code of fetching comes here
+        }).then(function(response) {
+            if (response.status >= 200 && response.status < 300) {
+                return response.text()
+            }
+            throw new Error(response.statusText)
+        })
+            .then(function(response) {
+                document.write(response);
+            })
+    }
+
+    function removeFunctionById() {
+        const url = 'http://192.168.33.22/WerkPakket1/events/' + document.getElementById('textbox_Id').value; // Get event to remove
+        var id = document.getElementById('textbox_Id').value;
+        fetch(url, {
+            method: 'delete',
+            // may be some code of fetching comes here
+        }).then(function(response) {
+            if (response.status >= 200 && response.status < 300) {
+                return response.text()
+            }
+            throw new Error(response.statusText)
+        })
+            .then(function(response) {
+                document.write("Removed event with ID: " + id);
+            })
+    }
+</script>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MonkeyBusiness</title>
+    <link rel="stylesheet" type="text/css" href="SiteCSS.css">
+</head>
+<body>
+<section class="parent">
+    <section class="section1">
+        <IMG SRC="MonkeyBusinessLogo.jpg" height="431" width="1096" ALT="Monkey Business">
+    </section>
+    <section class="section2">
+        Event ID : <input type="text" id="textbox_Id">
+        <br>
+        <button onclick="getFunctionById()">Read</button>
+        <button onclick="removeFunctionById()">Remove</button>
+        <form action="\action_page.php">
+
+        </form>
+    </section>
+</section>
+</body>
+</html>
